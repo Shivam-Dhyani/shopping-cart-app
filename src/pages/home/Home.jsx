@@ -6,7 +6,7 @@ import "./Home.css";
 const Home = () => {
   const {
     state: { productArray },
-    filterState: { byStock, sort, byFastDelivery, byRating },
+    filterState: { byStock, sort, byFastDelivery, byRating, bySearch },
   } = CartState();
 
   const filteredProducts = () => {
@@ -39,6 +39,13 @@ const Home = () => {
         (product) => product.ratings >= byRating
       );
     }
+
+    if (bySearch) {
+      sortedProductArray = sortedProductArray.filter((product) =>
+        product.name.toLowerCase().includes(bySearch.toLowerCase())
+      );
+    }
+
     console.log(sortedProductArray);
 
     return sortedProductArray;
