@@ -12,7 +12,7 @@
 
 ### SideBar UI
 
-![image](https://user-images.githubusercontent.com/69079491/206394395-506927a0-d777-4ff7-8654-fc06b4c14e71.png)
+![image](https://user-images.githubusercontent.com/69079491/206395240-c90357a6-ff57-4c14-998d-74545cd24067.png)
 
 ### Cart Page UI
 
