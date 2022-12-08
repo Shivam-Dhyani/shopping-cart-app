@@ -8,7 +8,7 @@
 
 ### Project List UI
 
-![image](https://user-images.githubusercontent.com/69079491/206394504-771dd504-85d9-48e6-8c98-1abf7454c308.png)
+![image](https://user-images.githubusercontent.com/69079491/206395467-550fb7eb-3ac7-4c25-b78c-a5fb524ebd52.png)
 
 ### SideBar UI
 
