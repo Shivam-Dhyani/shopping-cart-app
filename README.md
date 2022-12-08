@@ -16,6 +16,6 @@
 
 ### Cart Page UI
 
-![image](https://user-images.githubusercontent.com/69079491/206394786-57393938-6f44-430f-8a36-6adcca1528cd.png)
+![image](https://user-images.githubusercontent.com/69079491/206395687-50ddbf92-5f29-4109-8a97-4f88617a5e36.png)
 
 
